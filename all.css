@@ -13,6 +13,11 @@ h1 {
     text-align: center; /* 居中对齐 */
     margin-bottom: 20px; /* 底部边距 */
 }
+h2 {
+    color: #2c3e55; /* 标题颜色 */
+    text-align: center; /* 居中对齐 */
+    margin-bottom: 30px; /* 底部边距 */
+}
 
 /* 设置段落样式 */
 p {
